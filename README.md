@@ -1,4 +1,4 @@
 # Nand2Tetris
-Used HDL to create basic logic chip
+Used HDL to create basic logic chips
 
 
